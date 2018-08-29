@@ -1,0 +1,12 @@
+From table of expected counts
+
+
+ 	High School	 Bachelors	Masters	Ph.d.	Total
+Female	50.886	          49.868	50.377	49.868	201
+Male	49.114	          48.132	48.623	48.132	194
+Total	100	              98	99	98	395
+
+lambda2=(60-50.886)250.886+?+(57-48.132)248.132=8.006
+The critical value of lambda2 with 3 degree of freedom is 7.815. 
+Since 8.006 > 7.815, therefore we reject the null hypothesis 
+and conclude that the education level depends on gender at a 5% level of significance.
